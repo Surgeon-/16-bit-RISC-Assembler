@@ -1,0 +1,18 @@
+labela: abc def
+
+123 ; comment
+
+  lab2  :  labx:
+
+add r1, r2, r3;comment
+
+  lab3 : xor 1, 2 ;  comment  
+;comment
+
+  .end   
+
+ lab4:lab5:command 12345
+
+lab6:   b1234
+
+
